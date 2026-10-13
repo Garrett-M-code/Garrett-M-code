@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📡 About Me
-🎓 I am Garrett Moore, an undergraduate at the University of Georgia majoring in computer systems engineering and electrical & electronics engineering. In addition, I am pursuing a minor in computer science and certificate program in cybersecurity & privacy.  
+🎓 I am Garrett Moore, an undergraduate at the University of Georgia majoring in both Computer Systems Engineering and Electrical & Electronics Engineering. In addition, I am pursuing a minor in computer science and certificate program in cybersecurity & privacy.  
 
 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. Some hobbies of mine are trainging martial arts, practicing cardistry, and building guitars.
 
@@ -12,10 +12,15 @@
 ## 🥼 Involvement
 
 On campus I participate in a variety of clubs, student organizations, and research, including:
-- Co-founding [Advanced Research in Exploitation & Security (ARES) Lab](https://ares-uga.github.io/ARES-Website/), UGA's first undergraduate cybersecurity lab. Likewise, I serve as Head of Embedded Systems Security Research.
-- [Small Satellite Research Lab (SSRL)](https://smallsat.uga.edu/) RF Engineer, where I design the software and hardware behind our custom radio interface. Similarly, I work on the LEARNSat project as an embedded software engineer developing affordable cubesats for schools' educational research projects.
+- Co-founding [Advanced Research in Exploitation & Security (ARES) Lab](https://ares-uga.github.io/ARES-Website/), UGA's first undergraduate cybersecurity lab. Likewise, I serve as Head of Embedded Systems Security Research. In ARES we find vulnerabilities in embedded devices and popularly used services. From there, we report the vulnerabilities to create a safer world for everyone!
+- [Small Satellite Research Lab (SSRL)](https://smallsat.uga.edu/) Chief Systems Engineer for our ground station. I manage over 12 members and build support for satellite-to-ground telecommunication. In addition, I work as an RF Engineer, where I design the software and hardware behind our custom radio interface. Similarly, I work on the LEARNSat project as an embedded software engineer developing affordable cubesats for schools' educational research projects.
+- [The Hack Pack](https://thehackpack.org/) Lead Training Coordinator for the club. In The Hack Pack we train students in the fundamentals of cybersecurity, and use that knowledge to compete. Thus far, I've gotten top finished is NCAE Cybergames Southeast 2025, NCAE Cyber Games Southeast 2026, FaustCTF, and more! 
 - [Dev Dogs](https://devdogsuga.org/), where I served as the Algorithms Team Lead for the Spring 2025 semester.
 - SHPE, Physics Club, and many more!
+
+## 🚀 Experience 
+
+I am an active civil servant working on [NASA](https://nasa.gov/)'s Artemis program. My current contributions so far have been on both the Artemis III and Artemis IV missions. Let's go to the moon!
 
 ## 🛠️ Skills
 
